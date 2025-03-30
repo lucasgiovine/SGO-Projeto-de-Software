@@ -1,6 +1,10 @@
 # Sistema de Gestão das Olimpíadas (SGO)
 Repositório para modelagens do Sistema de Gestão das Olimpíadas (SGO). Abaixo seguem as histórias de usuário e visualização das modelagens.
 
+### Autores
+- **Lucas Giovine**
+- **Vitor Rebula**
+
 ## Histórias de usuário
 
 ### 1. Cadastro de Competições  
@@ -53,13 +57,23 @@ Repositório para modelagens do Sistema de Gestão das Olimpíadas (SGO). Abaixo
 - O relatório deve permitir filtragem por modalidade e período específico.  
 - O sistema deve atualizar os dados automaticamente após o registro dos resultados. 
 
-## Diagramas
+## Modelagens
 
-### Diagrama de Casos de Uso
-<img src="https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Imagens/Use%20Case%20-%20SGO.png"/>
+[Diagrama de classes](https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Modelagens/Class%20Diagram%20-%20SGO.jam)
+
+[Casos de uso](https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Modelagens/Use%20Case%20-%20SGO.fig)
+
+[Diagrama de componentes](https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Modelagens/Components%20diagram%20-%20SGO.fig)
+
+[Diagrama de implantação](https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Modelagens/Deployment%20diagram%20-%20SGO.zip)
+
+## Diagramas
 
 ### Diagrama de Classes
 <img src="https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Imagens/Class%20Diagram%20-%20SGO.png"/>
+
+### Diagrama de Casos de Uso
+<img src="https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Imagens/Use%20Case%20-%20SGO.png"/>
 
 ### Diagrama de Componentes
 <img src="https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Imagens/Components%20diagram%20-%20SGO.png"/>
