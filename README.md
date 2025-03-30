@@ -52,3 +52,17 @@ Repositório para modelagens do Sistema de Gestão das Olimpíadas (SGO). Abaixo
 - O sistema deve exibir um ranking de países com base na quantidade de medalhas de ouro, prata e bronze.  
 - O relatório deve permitir filtragem por modalidade e período específico.  
 - O sistema deve atualizar os dados automaticamente após o registro dos resultados. 
+
+## Diagramas
+
+### Diagrama de Casos de Uso
+<img src="https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Imagens/Use%20Case%20-%20SGO.png"/>
+
+### Diagrama de Classes
+<img src="https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Imagens/Class%20Diagram%20-%20SGO.png"/>
+
+### Diagrama de Componentes
+<img src="https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Imagens/Components%20diagram%20-%20SGO.png"/>
+
+### Diagrama de Implantação
+<img src="https://github.com/lucasgiovine/SGO-Projeto-de-Software/blob/main/Imagens/Deployment%20diagram%20-%20SGO.png"/>
